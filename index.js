@@ -11,6 +11,8 @@ this.getRandom = function(list) {
   return list[index];
 };
 
+this.icon = function(method) { return x[method](); };
+
 this.success = function () {return x.getRandom(x.lists.success); };
 this.failure = function () {return x.getRandom(x.lists.failure); };
 this.unknown = function () {return x.getRandom(x.lists.unknown); };
