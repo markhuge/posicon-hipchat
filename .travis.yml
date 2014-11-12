@@ -1,0 +1,12 @@
+language: node_js
+node_js:
+- '0.11'
+- '0.10'
+deploy:
+  provider: npm
+  email: mark@segfawlt.net
+  api_key:
+    secure: VUbo0qw/Mwu49kwPWnXnojiPpbOO1/ysSEiDv+8wT9p9PAeZtwTvM6N3nt6fnmZOzGsz9pk2Y0uJyNXf3YfbzFe6j1xZkGUvfEseTnwczt3lliF9z6SDyCV/NruvR6SH68hhkKeYx+qhWL53fkAvkR6FIGbCImRyZYddbedMPIs=
+  on:
+    tags: true
+    repo: markhuge/posicon-hipchat

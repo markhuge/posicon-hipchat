@@ -1,0 +1,28 @@
+{
+  "name": "posicon",
+  "version": "0.1.0",
+  "description": "Return a random contextually valid hipchat emoticon",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test/posicon-hipchat.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/markhuge/posicon-hipchat.git"
+  },
+  "keywords": [
+    "hipchat",
+    "posicon",
+    "emoticon",
+    "hubot"
+  ],
+  "author": "Mark Wilkerson <mark@segfalwt.net>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/markhuge/posicon-hipchat/issues"
+  },
+  "homepage": "https://github.com/markhuge/posicon-hipchat",
+  "devDependencies": {
+    "tape": "3.0.3"
+  }
+}
