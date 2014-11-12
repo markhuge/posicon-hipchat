@@ -10,3 +10,4 @@ deploy:
   on:
     tags: true
     repo: markhuge/posicon-hipchat
+    all_branches: true
