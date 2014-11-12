@@ -1,6 +1,6 @@
 {
   "name": "posicon",
-  "version": "0.1.1",
+  "version": "0.1.0",
   "description": "Return a random contextually valid hipchat emoticon",
   "main": "index.js",
   "scripts": {

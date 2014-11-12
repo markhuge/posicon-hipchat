@@ -6,7 +6,7 @@ deploy:
   provider: npm
   email: mark@segfawlt.net
   api_key:
-    secure: VUbo0qw/Mwu49kwPWnXnojiPpbOO1/ysSEiDv+8wT9p9PAeZtwTvM6N3nt6fnmZOzGsz9pk2Y0uJyNXf3YfbzFe6j1xZkGUvfEseTnwczt3lliF9z6SDyCV/NruvR6SH68hhkKeYx+qhWL53fkAvkR6FIGbCImRyZYddbedMPIs=
+    secure: c2p1lp2MGNrIkSItrPXaHzW9FxI1XewDuxC1Qy5bv0Y0VcOeyuhGxv7Vl0rIe7HkSwTaMKTXnx+B7tDleqfsuEvJVIWflKy+JVTBqsPJtaoaHrqnBTaqDbJZlA5+2qNj+kW2vTMeYgN1ITy4EO9ZF4lW3h02efw2uHyYX+YmGMs=
   on:
     tags: true
     repo: markhuge/posicon-hipchat
